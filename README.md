@@ -16,7 +16,7 @@
 
 ## 使用技術
 - **OS**：Windows Server / Linux
-- **環境**：AWS EC2 / VMware ESXi / オンプレミス
+- **環境**：AWS EC2 / EntraID / VMware ESXi / オンプレミス
 - **ネットワーク**：YAMAHAルーター / 無線AP / FortiGate
 - **セキュリティ**：Trend Micro Apex One
 - **ツール**：Apache / IIS / NAS / VBSS
